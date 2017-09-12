@@ -1,0 +1,30 @@
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\bin\Debug\Netra.Agent.Service.Control_Panel.exe.config
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\bin\Debug\Netra.Agent.Service.Control_Panel.exe
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\bin\Debug\Netra.Agent.Service.Control_Panel.pdb
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.csprojResolveAssemblyReference.cache
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\MainWindow.g.cs
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\App.g.cs
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel_MarkupCompile.cache
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel_MarkupCompile.lref
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\MainWindow.baml
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.g.resources
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.Properties.Resources.resources
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.csproj.GenerateResource.Cache
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.exe
+C:\Users\GAUTAM\Documents\Visual Studio 2017\Projects\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.pdb
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\bin\Debug\Netra.Agent.Service.Control_Panel.exe.config
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.exe
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.pdb
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\MainWindow.g.cs
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\App.g.cs
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel_MarkupCompile.cache
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel_MarkupCompile.lref
+D:\EventLogViewer\EventLogViewer\Output\Netra.Agent.Service.Control_Panel.exe.config
+D:\EventLogViewer\EventLogViewer\Output\Netra.Agent.Service.Control_Panel.exe
+D:\EventLogViewer\EventLogViewer\Output\Netra.Agent.Service.Control_Panel.pdb
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\MainWindow.baml
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.g.resources
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.Properties.Resources.resources
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.csproj.GenerateResource.Cache
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\EventLogViewer\EventLogViewer\Netra.Agent.Service.Control_Panel\obj\Debug\Netra.Agent.Service.Control_Panel.csprojResolveAssemblyReference.cache
